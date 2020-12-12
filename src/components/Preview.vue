@@ -12,6 +12,9 @@
 <script>
   export default {
     props : ['gifs'],
+    created() {
+      
+    }
   }
 </script>
 
